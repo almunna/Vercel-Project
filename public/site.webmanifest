@@ -1,0 +1,21 @@
+{
+  "name": "Moulai Tax Deduction App",
+  "short_name": "Moulai",
+  "description": "AI-powered tax deduction finder for Australian businesses",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#BEF397",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
